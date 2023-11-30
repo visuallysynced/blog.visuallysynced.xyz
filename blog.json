@@ -128,6 +128,18 @@
   "top-words": 64,
   "top-tags": 64,
   "posts": {
+    "domain-donations-updates": {
+      "title": "domain and donations updates",
+      "description": "here i express my graditude towards my first donation and update on the domain migration situation",
+      "content": "hello\n\n1. domains under <https://ari-web.xyz/> now redirect to <https://ari.lt/>\n2. today i got my first donation from **mario g.** on **paypal**, added them to the [thanks page](https://ari.lt/thanks) which i just created\n3. tmrw a page dedicated to my best friend, casey, is coming, as she's the one who supported me through everything for many yrs and recently even contributed to ari-web by buying me `ari.lt` :)\n\nthanks everyone\n\ntil next time\n\nari\n\n2023/11/30",
+      "keywords": [
+        "domain",
+        "ari-web donation",
+        "donation",
+        "thanks"
+      ],
+      "created": 1701371169.763617
+    },
     "arilt-new-ariweb-domain": {
       "title": "ari.lt -- new ari-web domain",
       "description": "switching domains from ari-web.xyz to ari.lt including some other changes",

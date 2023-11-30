@@ -1,4 +1,6 @@
-# [ari-web blog](https://blog.ari.lt/)
+<p align="center">
+    <h1><a href="https://blog.ari.lt/">ari-web blog</a></h1>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square">
@@ -9,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://app.netlify.com/sites/blog-ari-web/deploys"><img src="https://api.netlify.com/api/v1/badges/bbd7d670-9152-41a8-8c99-df57e4669606/deploy-status"></a>
+  <a href="https://app.netlify.com/sites/blog-ari-lt/deploys"><img src="https://api.netlify.com/api/v1/badges/98960a64-0fed-4f2c-8446-2357769a002e/deploy-status" /></a>
 </p>
 
 ## installing dependencies

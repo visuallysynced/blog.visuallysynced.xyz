@@ -3,43 +3,43 @@
 
 [[redirects]]
     from = "/git/*"
-    to = "https://ari-web.xyz/gh/blog.ari-web.xyz/:splat"
+    to = "https://ari.lt/gh/blog.ari.lt/:splat"
     status = 301
     force = true
 
 [[redirects]]
     from = "/favicon.ico"
-    to = "https://ari-web.xyz/favicon.ico"
+    to = "https://ari.lt/favicon.ico"
     status = 200
     force = true
 
 [[redirects]]
     from = "/blogs/:blog"
-    to = "https://legacy.blog.ari-web.xyz/blogs/:blog"
+    to = "https://legacy.blog.ari.lt/blogs/:blog"
     status = 301
     force = true
 
 [[redirects]]
     from = "/c"
-    to = "https://user.ari-web.xyz/"
+    to = "https://user.ari.lt/"
     status = 301
     force = true
 
 [[redirects]]
     from = "/netlify.toml"
-    to = "https://ari-web.xyz/404.blog.xyz"
+    to = "https://ari.lt/404.blog.xyz"
     status = 404
     force = true
 
 [[redirects]]
     from = "/visit"
-    to = "https://server.ari-web.xyz/visit"
+    to = "https://server.ari.lt/visit"
     status = 301
     force = true
 
 [[redirects]]
     from = "/*"
-    to = "https://ari-web.xyz/404.blog.xyz"
+    to = "https://ari.lt/404.blog.xyz"
     status = 404
     force = false
 

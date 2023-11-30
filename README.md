@@ -1,11 +1,11 @@
-# [ari-web blog](https://blog.ari-web.xyz/)
+# [ari-web blog](https://blog.ari.lt/)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/last-commit/TruncatedDinosour/blog.ari-web.xyz?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/repo-size/TruncatedDinosour/blog.ari-web.xyz?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/issues/TruncatedDinosour/blog.ari-web.xyz?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/stars/TruncatedDinosour/blog.ari-web.xyz?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/ari-lt/blog.ari.lt?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/repo-size/ari-lt/blog.ari.lt?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/issues/ari-lt/blog.ari.lt?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/stars/ari-lt/blog.ari.lt?color=red&style=flat-square">
 </p>
 
 <p align="center">
@@ -59,8 +59,8 @@ in that context, for example sorting blogs
 
 ## the API
 
--   <https://blog.ari-web.xyz/b/ari-web-blog-api-change/>
--   <https://blog.ari-web.xyz/b/ari-web-apis--how-to-use-them/>
+-   <https://blog.ari.lt/b/ari-web-blog-api-change/>
+-   <https://blog.ari.lt/b/ari-web-apis--how-to-use-them/>
 
 ## features u might wanna add
 

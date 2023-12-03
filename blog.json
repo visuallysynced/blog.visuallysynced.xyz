@@ -128,6 +128,25 @@
   "top-words": 64,
   "top-tags": 64,
   "posts": {
+    "usarilt-up": {
+      "title": "us.ari.lt is up",
+      "description": "us.ari.lt is up for testing, work in progress",
+      "content": "hello\n\n<https://us.ari.lt/> is up, even though its very much a work in progress,\n\nu can now sign up and create counters, but later on more features, including security and polish will be added, for now, im hosting it to test it\n\nenjoy",
+      "keywords": [
+        "us",
+        "signup",
+        "blog hosting",
+        "counter",
+        "host",
+        "web hosting",
+        "accounts",
+        "server",
+        "services",
+        "free counter",
+        "authentication"
+      ],
+      "created": 1701597400.790047
+    },
     "domain-donations-updates": {
       "title": "domain and donations updates",
       "description": "here i express my graditude towards my first donation and update on the domain migration situation",

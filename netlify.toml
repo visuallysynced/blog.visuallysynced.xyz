@@ -3,56 +3,16 @@
 
 [[redirects]]
     from = "/git/*"
-    to = "https://ari.lt/lh/blog.ari.lt/:splat"
+    to = "https://visuallysynced.xyz/gh/blog.visuallysynced.xyz/:splat"
     status = 301
     force = true
 
 [[redirects]]
     from = "/favicon.ico"
-    to = "https://ari.lt/favicon.ico"
+    to = "https://visuallysynced.xyz/favicon.ico"
     status = 200
     force = true
 
-[[redirects]]
-    from = "/blogs/:blog"
-    to = "https://legacy.blog.ari.lt/blogs/:blog"
-    status = 301
-    force = true
-
-[[redirects]]
-    from = "/c"
-    to = "https://user.ari.lt/"
-    status = 301
-    force = true
-
-[[redirects]]
-    from = "/netlify.toml"
-    to = "https://ari.lt/404.blog.xyz"
-    status = 404
-    force = true
-
-[[redirects]]
-    from = "/visit"
-    to = "https://us.ari.lt/counter/@ari/kpnuBU0qISQlfR7cSNwwg9oW8654-RguVrXh9JOBGo3EP1-bm7aF9ROuQO6Jqesk.svg"
-    status = 301
-    force = true
-
-[[redirects]]
-    from = "/*"
-    to = "https://ari.lt/404.blog.xyz"
-    status = 404
-    force = false
-
-# This has been replaced, currently I'm looking how
-# JavaScript blocking is affecting my statistics
-# as it seems like most people are much more interested
-# in the legacy blog, not sure why, but it might have
-# something to do with the content blocking features
-# that is JavaScript blocking, even though both
-# the legacy blog and the non-legacy blogs have JavaScript
-# blocking
-
-# Content-Security-Policy = "upgrade-insecure-requests; sandbox; script-src 'sha512-v'; object-src 'none';"
 
 [[headers]]
     for = "/blog.json"

@@ -1,17 +1,15 @@
+# [VisuallySynced Blogs](https://blog.visuallysynced.xyz/)
+A fork of [Ari-web blogs](https://blog.ari-web.xyz/)
 <p align="center">
-    <h1><a href="https://blog.ari.lt/">ari-web blog</a></h1>
+  <img src="https://img.shields.io/badge/Maintained-Yes-green?color=white&style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/visuallysynced/blog.visuallysynced.xyz?color=white&style=flat-square">
+  <img src="https://img.shields.io/github/repo-size/visuallysynced/blog.visuallysynced.xyz?color=white&style=flat-square">
+  <img src="https://img.shields.io/github/issues/visuallysynced/blog.visuallysynced.xyz?color=white&style=flat-square">
+  <img src="https://img.shields.io/github/stars/visuallysynced/blog.visuallysynced.xyz?color=white&style=flat-square">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained-Yes-green?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/last-commit/ari-lt/blog.ari.lt?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/repo-size/ari-lt/blog.ari.lt?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/issues/ari-lt/blog.ari.lt?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/stars/ari-lt/blog.ari.lt?color=red&style=flat-square">
-</p>
-
-<p align="center">
-  <a href="https://app.netlify.com/sites/blog-ari-lt/deploys"><img src="https://api.netlify.com/api/v1/badges/98960a64-0fed-4f2c-8446-2357769a002e/deploy-status" /></a>
+  <a href="https://app.netlify.com/sites/blog-ari-web/deploys"><img src="https://api.netlify.com/api/v1/badges/bbd7d670-9152-41a8-8c99-df57e4669606/deploy-status"></a>
 </p>
 
 ## installing dependencies
@@ -28,12 +26,12 @@ Or
 $ python3 -m pip install --user -r requirements.txt
 ```
 
-do the same with `requirements-extra.txt` if ur using stuff like `new`
+## completions
 
-## creating a new blog
+-   bash
 
 ```bash
-$ ./scripts/blog.py blog
+$ . completions/blog.bash
 ```
 
 ## building
@@ -44,29 +42,23 @@ $ ./scripts/blog.py blog
 $ CI=1 ./scripts/blog static
 ```
 
--   only build posts
+-   only build blogs
 
 ```bash
-$ CI=1 ./scripts/blog build
+$ CI=1 ./scripts/blog static
 ```
 
 `CI` environment variable is optional,
 though setting it in a build/CI environment is good
 to save time on some operations that are useless
-in that context, for example sorting blogs
+in that context, for example sorting blogs.
 
-`CI` can have any value
-
-`NOCLR` also disables colours
+`CI` can have any value.
 
 ## the API
 
--   <https://blog.ari.lt/b/ari-web-blog-api-change/>
--   <https://blog.ari.lt/b/ari-web-apis--how-to-use-them/>
-
-## features u might wanna add
-
--   syntax highlighting : <https://github.com/lepture/mistune/issues/54> -- edit `BlogRender`
+-   <https://blog.ari-web.xyz/b/ari-web-blog-api-change/>
+-   <https://blog.ari-web.xyz/b/ari-web-apis--how-to-use-them/>
 
 ## why ari-web blog manager
 

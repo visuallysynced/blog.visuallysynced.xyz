@@ -1,5 +1,5 @@
 # [VisuallySynced Blogs](https://blog.visuallysynced.xyz/)
-A fork of [Ari-web blogs](https://blog.ari.lt/)
+A fork of [Ari-web blogs](https://blog.ari-web.xyz/)
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained-Yes-green?color=white&style=flat-square">
   <img src="https://img.shields.io/github/last-commit/visuallysynced/blog.visuallysynced.xyz?color=white&style=flat-square">

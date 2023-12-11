@@ -1,7 +1,7 @@
 {
     "title": "VS | Blog",
     "header": "My blog",
-    "description": "Bassicly my mind xD",
+    "description": "Bassicaly my mind xD",
     "posts-dir": "b",
     "assets-dir": "content",
     "rss-file": "rss.xml",
@@ -24,7 +24,7 @@
     "website": "https://visuallysynced.xyz",
     "blog": "https://blog.visuallysynced.xyz",
     "source": "/git",
-    "visitor-count": "https://us.ari.lt/counter/@lenvx/vjtLd7v_NtdkSBcA4WaCuPPYobcMGDPj1QRAuzW7B7MY4LMulUnr1aUG1yqhHOV5.svg?font=hack&ratio=2&fill=%23e06c75",
+    "visitor-count": "/visit",
     "comment": "/c",
     "theme": {
         "primary": "#101010",

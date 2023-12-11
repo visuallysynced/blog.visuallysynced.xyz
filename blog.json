@@ -24,7 +24,7 @@
     "website": "https://visuallysynced.xyz",
     "blog": "https://blog.visuallysynced.xyz",
     "source": "/git",
-    "visitor-count": "https://us.ari.lt/counter/@lenvx/vjtLd7v_NtdkSBcA4WaCuPPYobcMGDPj1QRAuzW7B7MY4LMulUnr1aUG1yqhHOV5.svg?font=hack&ratio=2&fill=%23e06c75",
+    "visitor-count": "/visit",
     "comment": "/c",
     "theme": {
         "primary": "#101010",
@@ -109,7 +109,7 @@
         "new-subdomain-filesvisuallysyncedxyz": {
             "title": "New Subdomain: files.visuallysynced.xyz",
             "description": "Introducing files.visuallysynced.xyz",
-            "content": "I've decided to create a subdomain dedicated to hosting public files.\n\n# Why?\n\nIt'll make providing download links easier and will serve as a convenient storage space for screenshots and other files.\n\n# Where will you host it?\n\nI've chosen Firebase as the hosting platform because it's more convenient and won't require storing the files in github res or just reuploading the folder in netlify.\n\nalso this is how it works:\n\nlist and click to download: [files.visuallysynced.xyz/](files.visuallysynced.xyz/)\nknow what ur downloading and  and click to download: [files.visuallysynced.xyz/](files.visuallysynced.xyz/)\nThats for now, bai bai.",
+            "content": "I've decided to create a subdomain dedicated to hosting public files.\n\n# Why?\n\nIt'll make providing download links easier and will serve as a convenient storage space for screenshots and other files.\n\n# Where will you host it?\n\nI've chosen Firebase as the hosting platform because it's more convenient and won't require storing the files in github res or just reuploading the folder in netlify.\n\nalso this is how it works:\n\nlist and click to download: <https://files.visuallysynced.xyz/>\nknow what ur downloading and  and click to download: <https://files.visuallysynced.xyz/download/?file=activate.ps1>\nThats for now, bai bai.",
             "keywords": [
                 "firebase",
                 "files",
@@ -117,12 +117,12 @@
                 "netlify"
             ],
             "created": 1702117641.020651,
-            "edited": 1702234446.544587
+            "edited": 1702265804.329838
         },
         "activate-windows-1011": {
             "title": "How to activate Windows 10/11",
             "description": "Activate Windows For Free",
-            "content": "Are you a windows user who doesn't want to waste money on a license to activate spyware but still wants to activate it?\nI gotchu:\n\n# Activate Manually\n\n1. Run cmd as administrator\n2. Install KMS client key, pick a license key and use the command:\n\n```\nLicense Keys:\nHome: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99\nHome N: 3KHY7-WNT83-DGQKR-F7HPR-844BM\nHome Single Language: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH\nHome Country Specific: PVMJN-6DFY6-9CCP6-7BKTT-D3WVR\nProfessional: W269N-WFGWX-YVC9B-4J6C9-T83GX\nProfessional N: MH37W-N47XK-V7XM9-C7227-GCQG9\nEducation: NW6C2-QMPVW-D7KKK-3GKT6-VCFB2\nEducation N: 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ\nEnterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43\nEnterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4\n```\n\n```powershell\nslmgr /ipk yourlicensekey\n```\n\n3. Set MsGuide KMS machine address.\n\n```powershell\nslmgr /skms kms8.msguides.com\n```\n\n4. Activate it\n\n```powershell\nslmgr /ato\n```\n\n5. Reboot (Optinal)\n\n# Script\n\nI made a powershell script so if your lazy to activate it your self u can:\n\n[Click and download here](files.visuallysynced.xyz/download?file=activate.ps1)\n\n\nHope you found it useful, bai bai.",
+            "content": "Are you a windows user who doesn't want to waste money on a license to activate spyware but still wants to activate it?\nI gotchu:\n\n# Activate Manually\n\n1. Run cmd as administrator\n2. Install KMS client key, pick a license key and use the command:\n\n```\nLicense Keys:\nHome: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99\nHome N: 3KHY7-WNT83-DGQKR-F7HPR-844BM\nHome Single Language: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH\nHome Country Specific: PVMJN-6DFY6-9CCP6-7BKTT-D3WVR\nProfessional: W269N-WFGWX-YVC9B-4J6C9-T83GX\nProfessional N: MH37W-N47XK-V7XM9-C7227-GCQG9\nEducation: NW6C2-QMPVW-D7KKK-3GKT6-VCFB2\nEducation N: 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ\nEnterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43\nEnterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4\n```\n\n```powershell\nslmgr /ipk yourlicensekey\n```\n\n3. Set MsGuide KMS machine address.\n\n```powershell\nslmgr /skms kms8.msguides.com\n```\n\n4. Activate it\n\n```powershell\nslmgr /ato\n```\n\n5. Reboot (Optinal)\n\n# Script\n\nI made a powershell script so if your lazy to activate it your self u can:\n\n<https://files.visuallysynced.xyz/download/?file=activate.ps1>\n\n\nHope you found it useful, bai bai.",
             "keywords": [
                 "free activate",
                 "windows 10",
@@ -134,7 +134,7 @@
                 "windows 11"
             ],
             "created": 1702117097.415481,
-            "edited": 1702234217.093169
+            "edited": 1702265749.233561
         },
         "hello-world": {
             "title": "Hello, world!",
@@ -144,7 +144,7 @@
                 "hello world"
             ],
             "created": 1701455356.764966,
-            "edited": 1701455402.471391
+            "edited": 1702265736.446384
         }
     }
 }

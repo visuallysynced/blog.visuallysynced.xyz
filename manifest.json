@@ -1,0 +1,1 @@
+{"$schema": "https://json.schemastore.org/web-manifest-combined.json", "short_name": "My blog", "name": "VS | Blog", "description": "Bassicly my mind xD", "start_url": ".", "display": "standalone", "theme_color": "#101010", "background_color": "#e06c75", "icons": [{"src": "/favicon.ico", "sizes": "128x128", "type": "image/x-icon"}]}

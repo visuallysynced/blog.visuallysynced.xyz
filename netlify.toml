@@ -53,3 +53,9 @@
         X-Permitted-Cross-Domain-Policies = "none"
         Referrer-Policy = "no-referrer"
 
+[[headers]]
+    for = "/rss.xml"
+
+    [headers.values]
+        Content-Type = "application/xml+rss"
+

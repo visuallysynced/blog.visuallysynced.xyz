@@ -13,6 +13,11 @@
     status = 200
     force = true
 
+[[redirects]]
+    from = "/visit"
+    to = "https://us.ari.lt/counter/@lenvx/vjtLd7v_NtdkSBcA4WaCuPPYobcMGDPj1QRAuzW7B7MY4LMulUnr1aUG1yqhHOV5.svg?font=hack&ratio=2&fill=%23e06c75"
+    status = 200
+    force = true
 
 [[headers]]
     for = "/blog.json"
